@@ -14,7 +14,6 @@ function App() {
           <Link to="/contact">Contact</Link>
         </div>
       </nav>
-
       <main className="content">
         <AppRoutes />
       </main>
